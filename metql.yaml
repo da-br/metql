@@ -1,2 +1,2 @@
-location: "$HOME/.local/share/metql/store/"
+location: "~/.local/share/metql/store/"
 address: 42069
